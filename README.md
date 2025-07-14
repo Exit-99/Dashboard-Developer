@@ -1,6 +1,6 @@
 ## Developer Dashboard
 
-**Una dashboard minimal e potente per gestire il lavoro freelance, i progetti e le note. Progettata per sviluppatori, creator e professionisti digitali.**
+- **Una dashboard minimal e potente per gestire il lavoro freelance, i progetti e le note. Progettata per sviluppatori, creator e professionisti digitali.**
 
 ## 📌 Funzionalità
 
@@ -23,9 +23,9 @@
 
 ## 🧙‍♂️ Autore
 
-Creato da Hazard. Per richieste, adattamenti o collaborazioni: contattami tramite GitHub.
+- Creato da Hazard. Per richieste, adattamenti o collaborazioni: contattami tramite GitHub.
 
 ## 📄 Licenza
 
-Questo progetto è rilasciato sotto licenza puoi usarlo, modificarlo e redistribuirlo liberamente.
+- Questo progetto è rilasciato sotto licenza puoi usarlo, modificarlo e redistribuirlo liberamente.
 
