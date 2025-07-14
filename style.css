@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #121212;
+  color: #fff;
+}
+
+header, footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #1f1f1f;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 1rem;
+}
+
+.card {
+  background-color: #272727;
+  border-radius: 8px;
+  padding: 1rem;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.chart-section {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.note {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  background-color: #1f1f1f;
+  color: #fff;
+  border: none;
+  padding: 0.5rem;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Developer Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <header>
+    <h1>DASHBOARD PERSONALE</h1>
+    <p>Benvenuto, questa è la tua area lavoro!</p>
+  </header>
+
+  <section class="cards">
+    <div class="card">
+      <h2>Clienti gestiti</h2>
+      <p>24</p>
+    </div>
+    <div class="card">
+      <h2>Ore lavorate</h2>
+      <p>132h</p>
+    </div>
+    <div class="card">
+      <h2>Progetti attivi</h2>
+      <p>5</p>
+    </div>
+  </section>
+
+  <section class="chart-section">
+    <canvas id="workChart"></canvas>
+  </section>
+
+  <section class="note">
+    <h2>Appunti Personali</h2>
+    <textarea placeholder="Scrivi i tuoi appunti qui..."></textarea>
+  </section>
+
+  <footer>
+    <p>Made by<strong> Hazard</strong></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
